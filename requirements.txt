@@ -1,0 +1,8 @@
+beautifulsoup4
+catboost
+lightgbm
+nltk
+numpy
+pandas
+scikit-learn
+xgboost
